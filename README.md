@@ -1,6 +1,6 @@
 ## R Datasets Explorer
 
-The __R Datasets Explorer__ Shiny App: [https://guyt88.shinyapps.io/rdatasets/] (https://guyt88.shinyapps.io/rdatasets/)
+The __R Datasets Explorer__ Shiny App: [http://guyt88.shinyapps.io/rdatasets/] (http://guyt88.shinyapps.io/rdatasets/)
 
 __Purpose:__ This Shiny App loads a subset of the R datasets package and allows the user to preview, plot and then run a 
 multivariable regression on variables in the chosen dataset.
@@ -26,7 +26,7 @@ You can then return to the first tab to select another dataset and work through 
 
 A pitch for this application was created using RStudio Presenter.
 
-The slides can be found here:[https://rpubs.com/guyt88/192012](https://rpubs.com/guyt88/192012)
+The slides can be found here:[http://rpubs.com/guyt88/192012](http://rpubs.com/guyt88/192012)
 
 The server.R and ui.R files used to create the R Datasets Explorer application can be found in this Github repo.
 
